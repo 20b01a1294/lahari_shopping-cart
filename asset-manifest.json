@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lahari_shopping-cart/static/css/main.4eb91155.css",
+    "main.js": "/lahari_shopping-cart/static/js/main.0020b342.js",
+    "index.html": "/lahari_shopping-cart/index.html",
+    "main.4eb91155.css.map": "/lahari_shopping-cart/static/css/main.4eb91155.css.map",
+    "main.0020b342.js.map": "/lahari_shopping-cart/static/js/main.0020b342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eb91155.css",
+    "static/js/main.0020b342.js"
+  ]
+}
